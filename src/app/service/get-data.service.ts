@@ -114,7 +114,7 @@ export class GetDataService {
     {
       pdId: 8571,
       pdName: "Men Solid Round Neck Pure Cotton Dark Green T-Shirt",
-      pdDesc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque placeat asperiores sint molestiae expedita facilis, illum voluptas optio amet cumque veniam itaque commodi vel incidunt sed deserunt, ea unde laudantium.",
+      pdDesc: "Discover premium products at unbeatable prices! Enjoy fast shipping, exceptional customer service, and hassle-free returns. Shop now for exclusive deals and elevate your shopping experience!",
       pdPrice: 200,
       pdCategory: "fashion",
       pdSubCategory: "tshirt",
@@ -124,7 +124,7 @@ export class GetDataService {
     {
       pdId: 8572,
       pdName: "Men Printed Round Neck Cotton Blend Blue T-Shirt",
-      pdDesc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque placeat asperiores sint molestiae expedita facilis, illum voluptas optio amet cumque veniam itaque commodi vel incidunt sed deserunt, ea unde laudantium.",
+      pdDesc: " Made from a soft and breathable cotton blend, this t-shirt offers comfort and durability, perfect for everyday wear. Its eye-catching print adds a trendy touch to any outfit.",
       pdPrice: 500,
       pdCategory: "fashion",
       pdSubCategory: "tshirt",
@@ -135,7 +135,7 @@ export class GetDataService {
     {
       pdId: 8573,
       pdName: "Women Solid Round Neck Pure Cotton Purple T-Shirt",
-      pdDesc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque placeat asperiores sint molestiae expedita facilis, illum voluptas optio amet cumque veniam itaque commodi vel incidunt sed deserunt, ea unde laudantium.",
+      pdDesc: "Made from a soft and breathable cotton blend, this t-shirt offers comfort and durability, perfect for everyday wear. Its eye-catching print adds a trendy touch to any outfit.",
       pdPrice: 800,
       pdCategory: "fashion",
       pdSubCategory: "tshirt",
@@ -145,7 +145,7 @@ export class GetDataService {
     {
       pdId: 8574,
       pdName: "Men Regular Mid Rise Blue Jeans",
-      pdDesc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque placeat asperiores sint molestiae expedita facilis, illum voluptas optio amet cumque veniam itaque commodi vel incidunt sed deserunt, ea unde laudantium.",
+      pdDesc: "Designed for comfort and style. Crafted from durable denim with a classic fit, these jeans are perfect for any casual occasion. Elevate your wardrobe with this timeless staple!orem, ipsum dolor sit amet consectetur adipisicing elit. Neque placeat asperiores sint molestiae expedita facilis, illum voluptas optio amet cumque veniam itaque commodi vel incidunt sed deserunt, ea unde laudantium.",
       pdPrice: 550,
       pdCategory: "fashion",
       pdSubCategory: "jeans",
@@ -155,7 +155,7 @@ export class GetDataService {
     {
       pdId: 8575,
       pdName: "Women Flared Mid Rise Blue Jeans",
-      pdDesc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque placeat asperiores sint molestiae expedita facilis, illum voluptas optio amet cumque veniam itaque commodi vel incidunt sed deserunt, ea unde laudantium.",
+      pdDesc: " Designed for comfort and versatility. Crafted from premium denim, these jeans feature a flattering fit that pairs perfectly with any top. Ideal for casual outings or dressier occasions!",
       pdPrice: 1500,
       pdCategory: "fashion",
       pdSubCategory: "jeans",
@@ -165,7 +165,7 @@ export class GetDataService {
     {
       pdId: 8576,
       pdName: "Cortina Polyester Striped Sofa Cover  (Brown / Drak Brown Pack of 1)",
-      pdDesc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque placeat asperiores sint molestiae expedita facilis, illum voluptas optio amet cumque veniam itaque commodi vel incidunt sed deserunt, ea unde laudantium.",
+      pdDesc: "Offers a durable and stylish option to protect your sofa. Made from high-quality polyester, it's easy to maintain and adds a modern touch to any living room. Ideal for a standard-sized sofa.",
       pdPrice: 1500,
       pdCategory: "homeandfurniture",
       pdSubCategory: "cover",
@@ -174,7 +174,7 @@ export class GetDataService {
     {
       pdId: 8577,
       pdName: "Cortina Cotton Curtain for , Boho Curtain with Stainless Steel Rings Curtain Fabric  (Brown, 153 m)",
-      pdDesc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque placeat asperiores sint molestiae expedita facilis, illum voluptas optio amet cumque veniam itaque commodi vel incidunt sed deserunt, ea unde laudantium.",
+      pdDesc: "Enhance your space with our Cortina Cotton Curtain, featuring a stylish boho design and durable stainless steel rings. Made from high-quality brown fabric, it offers a chic look and excellent light control. Perfect for adding warmth and texture to any room.",
       pdPrice: 2500,
       pdCategory: "homeandfurniture",
       pdSubCategory: "cover",
@@ -183,7 +183,7 @@ export class GetDataService {
     {
       pdId: 8578,
       pdName: "Decorum 204 TC Microfiber Double Floral Flat Bedsheet  (Pack of 1, Green)",
-      pdDesc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque placeat asperiores sint molestiae expedita facilis, illum voluptas optio amet cumque veniam itaque commodi vel incidunt sed deserunt, ea unde laudantium.",
+      pdDesc: "Transform your bedroom with the Decorum 204 TC Microfiber Double Floral Flat Bedsheet in vibrant green. Made from soft, durable microfiber, it offers comfort and style, enhancing any decor. Perfect for everyday use, this easy-care bedsheet is a must-have for a refreshing sleep space.",
       pdPrice: 2500,
       pdCategory: "homeandfurniture",
       pdSubCategory: "cover",
@@ -192,7 +192,7 @@ export class GetDataService {
     {
       pdId: 8579,
       pdName: "Seventh Heaven Milan 3 Seater Sofa",
-      pdDesc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque placeat asperiores sint molestiae expedita facilis, illum voluptas optio amet cumque veniam itaque commodi vel incidunt sed deserunt, ea unde laudantium.",
+      pdDesc: "Elevate your living space with this stylish and comfortable 3-seater sofa, featuring premium upholstery and a sleek design. Perfect for family gatherings or cozy evenings, it combines elegance with durability. Available in multiple colors to match your decor!",
       pdPrice: 15000,
       pdCategory: "homeandfurniture",
       pdSubCategory: "sofa",
@@ -201,7 +201,7 @@ export class GetDataService {
     {
       pdId: 8580,
       pdName: "Allie Wood Solid Wood Study Table",
-      pdDesc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque placeat asperiores sint molestiae expedita facilis, illum voluptas optio amet cumque veniam itaque commodi vel incidunt sed deserunt, ea unde laudantium.",
+      pdDesc: "Table features a sturdy design with premium solid wood construction, offering durability and elegance for any workspace. Its spacious tabletop provides ample room for books and a laptop, while the sleek finish enhances any interior decor. Perfect for students and professionals alike, this study table combines style with functionality.",
       pdPrice: 10000,
       pdCategory: "homeandfurniture",
       pdSubCategory: "table",
@@ -210,7 +210,7 @@ export class GetDataService {
     {
       pdId: 8581,
       pdName: "spincart Mini Monster",
-      pdDesc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque placeat asperiores sint molestiae expedita facilis, illum voluptas optio amet cumque veniam itaque commodi vel incidunt sed deserunt, ea unde laudantium.",
+      pdDesc: " High-performance electric scooter designed for urban commuting. It features a powerful motor, long-lasting battery, and a lightweight foldable frame for easy portability. Ideal for short trips, it offers a smooth ride with enhanced safety features.",
       pdPrice: 300,
       pdCategory: "toys",
       pdSubCategory: "cars",
@@ -219,7 +219,7 @@ export class GetDataService {
     {
       pdId: 8582,
       pdName: "PP INFINITY Ford 12V Electric Ride On Car For Kids With Remote Control, Music Light 1-6 Yrs Car Battery Operated Ride On  (Black)",
-      pdDesc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque placeat asperiores sint molestiae expedita facilis, illum voluptas optio amet cumque veniam itaque commodi vel incidunt sed deserunt, ea unde laudantium.",
+      pdDesc: "Car for Kids offers a stylish black design, remote control for parental supervision, and features music and lights. Suitable for ages 1-6, it’s battery-operated and provides a fun, safe driving experience.",
       pdPrice: 25000,
       pdCategory: "toys",
       pdSubCategory: "cars",
@@ -228,7 +228,7 @@ export class GetDataService {
     {
       pdId: 8583,
       pdName: "BOZICA Wooden Educational Creative learning A To Z English Alphabets Board Puzzle  (27 Pieces)",
-      pdDesc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque placeat asperiores sint molestiae expedita facilis, illum voluptas optio amet cumque veniam itaque commodi vel incidunt sed deserunt, ea unde laudantium.",
+      pdDesc: " A to Z English alphabets, designed to enhance early learning and cognitive skills in children. Made of durable wood, it's perfect for creative and hands-on learning. Ideal for kids aged 3 and up.",
       pdPrice: 700,
       pdCategory: "toys",
       pdSubCategory: "puzzle",
@@ -237,7 +237,7 @@ export class GetDataService {
     {
       pdId: 8584,
       pdName: "Aapaga Action Figure Super Heros Toy Set",
-      pdDesc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque placeat asperiores sint molestiae expedita facilis, illum voluptas optio amet cumque veniam itaque commodi vel incidunt sed deserunt, ea unde laudantium.",
+      pdDesc: "Aapaga Action Figure Super Heroes Toy Set includes highly detailed, poseable action figures of popular heroes. Made from durable materials, perfect for kids and collectors alike. Ideal for imaginative play or as display pieces in collections.",
       pdPrice: 500,
       pdCategory: "toys",
       pdSubCategory: "toys",
